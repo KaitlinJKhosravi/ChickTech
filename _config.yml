@@ -3,4 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 title: Galaxy NGC 891
 include: ["_pages"]
 
-theme: jekyll-theme-slate
+author:
+  name: "Kaitlin Khosravi"
+  avatar: "http://news.blr.com/app/uploads/sites/3/2016/10/Llama-1.jpg"
+  bio: "
