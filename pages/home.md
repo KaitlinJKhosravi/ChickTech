@@ -8,5 +8,5 @@ Hello, ChickTech!
 
 author:
   name: "Kaitlin Khosravi"
-  avatar: "Llama-1.jpg"
+  avatar: "/Llama-1.jpg"
   bio: "
