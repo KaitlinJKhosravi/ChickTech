@@ -5,4 +5,4 @@ title: Llamas
 author_profile: true
 ---
 
-![sad llama](/download.jpg)
+![sad llama]({{site.url}}/download.jpg)
